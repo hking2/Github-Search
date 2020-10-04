@@ -8,7 +8,7 @@ class UI {
             <div class="card card-body mb-3">
                 <div class="row">
                     <div class="col-mb-3">
-                        <img class="img-fluid mb-2" src="${user.avatar_url}">
+                        <img class="img-fluid mb-2 w-50" src="${user.avatar_url}">
                         <a href="${user.html_url}" target="_blank" class="btn btn-primary btn-block mb-4">View Profile</a>
                     </div>
                     <div class="col-md-9">
